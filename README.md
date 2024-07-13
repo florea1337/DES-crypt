@@ -1,1 +1,1 @@
-Simple DES encrytion uses CBC - PKCS7
+Simple DES encryption uses CBC - PKCS7
